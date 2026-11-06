@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 97.1,
+    "min_format": 97.1,
+    "max_format": 97.1,
+    "description": "Gjenkjanos na Vjosa made!"
+  },
+  "language": {
+    "vp_vo": {
+      "name": "Viossa",
+      "region": "Viossa",
+      "bidirectional": false
+    }
+  }
+}
